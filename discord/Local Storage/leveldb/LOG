@@ -1,0 +1,6 @@
+2022/02/04-18:27:01.219 20e Reusing MANIFEST /home/fesa/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/02/04-18:27:01.611 20e Recovering log #4
+2022/02/04-18:27:02.040 20e Reusing old log /home/fesa/.config/discord/Local Storage/leveldb/000004.log 
+2022/02/04-18:30:32.043 249 Level-0 table #8: started
+2022/02/04-18:30:32.096 249 Level-0 table #8: 33131 bytes OK
+2022/02/04-18:30:32.131 249 Delete type=0 #4

@@ -1,0 +1,23 @@
+{
+   "desc": {
+      "message": "Free Music Downloader - Download videos/audios in MP3, MP4, webm, ... and more."
+   },
+   "disableyoutube": {
+      "message": "The Chrome Web Store does not allow extensions to download videos from Youtube, try search with musit/artist name."
+   },
+   "name": {
+      "message": "ነፃ የሙዚቃ አውርድ"
+   },
+   "notfound": {
+      "message": "ምንም ቪዲዮዎች አልተገኙም ፣ እሱን ይፈልጉት።"
+   },
+   "placeholder": {
+      "message": "Search keywords or paste link here...."
+   },
+   "search": {
+      "message": "ይፈልጉ"
+   },
+   "title": {
+      "message": "ነፃ የሙዚቃ አውርድ"
+   }
+}

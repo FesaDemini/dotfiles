@@ -1,0 +1,23 @@
+{
+   "desc": {
+      "message": "Free Music Downloader - Prenesite video posnetke / avdio v MP3, MP4, webm, ... in še več."
+   },
+   "disableyoutube": {
+      "message": "Spletna trgovina Chrome ne dovoljuje razširitvam, da naložijo videoposnetke z Youtube, poskusite iskati z imenom musit / izvajalca."
+   },
+   "name": {
+      "message": "Brezplačni glasbeni Downloader"
+   },
+   "notfound": {
+      "message": "Videoposnetkov ni mogoče najti, poskusite ga poiskati."
+   },
+   "placeholder": {
+      "message": "Tu poiščite ključne besede ali prilepite povezavo ...."
+   },
+   "search": {
+      "message": "Iskanje"
+   },
+   "title": {
+      "message": "Brezplačni glasbeni Downloader"
+   }
+}

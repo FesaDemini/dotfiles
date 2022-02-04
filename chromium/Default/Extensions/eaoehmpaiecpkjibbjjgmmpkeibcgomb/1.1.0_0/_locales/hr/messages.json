@@ -1,0 +1,23 @@
+{
+   "desc": {
+      "message": "Besplatno Music Downloader - Preuzmite videozapise / audio zapise u MP3, MP4, webm, ... i još mnogo toga."
+   },
+   "disableyoutube": {
+      "message": "Chrome web-trgovina ne dopušta ekstenzijama da preuzimaju videozapise s Youtubea, pokušajte pretražiti s imenom musit / artist."
+   },
+   "name": {
+      "message": "Besplatno preuzimanje glazbe"
+   },
+   "notfound": {
+      "message": "Videozapisi nisu pronađeni, pokušajte ih pretraživati."
+   },
+   "placeholder": {
+      "message": "Ovdje pretražite ključne riječi ili zalijepite vezu ...."
+   },
+   "search": {
+      "message": "traži"
+   },
+   "title": {
+      "message": "Besplatno preuzimanje glazbe"
+   }
+}

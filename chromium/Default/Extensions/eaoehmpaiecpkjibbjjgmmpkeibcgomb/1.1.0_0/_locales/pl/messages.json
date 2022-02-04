@@ -1,0 +1,23 @@
+{
+   "desc": {
+      "message": "Darmowy program do pobierania muzyki - pobieraj filmy / pliki audio w formacie MP3, MP4, Webm, ... i nie tylko."
+   },
+   "disableyoutube": {
+      "message": "Chrome Web Store nie zezwala rozszerzeniom na pobieranie filmów z YouTube, spróbuj wyszukać za pomocą nazwy muz / artysty."
+   },
+   "name": {
+      "message": "Darmowy program do pobierania muzyki"
+   },
+   "notfound": {
+      "message": "Nie znaleziono filmów, spróbuj je przeszukać."
+   },
+   "placeholder": {
+      "message": "Wyszukaj słowa kluczowe lub wklej link tutaj ...."
+   },
+   "search": {
+      "message": "Szukaj"
+   },
+   "title": {
+      "message": "Darmowy program do pobierania muzyki"
+   }
+}

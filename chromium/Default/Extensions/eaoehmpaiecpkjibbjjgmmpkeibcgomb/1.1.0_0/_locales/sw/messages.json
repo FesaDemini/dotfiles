@@ -1,0 +1,23 @@
+{
+   "desc": {
+      "message": "Upakuaji wa Muziki Bure - Pakua video / audios katika MP3, MP4, webm, ... na zaidi."
+   },
+   "disableyoutube": {
+      "message": "Duka la Wavuti la Chrome hairuhusu upanuzi kupakua video kutoka kwa Youtube, jaribu kutafuta na jina la musit / msanii."
+   },
+   "name": {
+      "message": "Bure muziki kupakua"
+   },
+   "notfound": {
+      "message": "Hakuna video zilizopatikana, jaribu kutafuta."
+   },
+   "placeholder": {
+      "message": "Tafuta maneno au bonyeza kiungo hapa ...."
+   },
+   "search": {
+      "message": "Tafuta"
+   },
+   "title": {
+      "message": "Bure muziki kupakua"
+   }
+}

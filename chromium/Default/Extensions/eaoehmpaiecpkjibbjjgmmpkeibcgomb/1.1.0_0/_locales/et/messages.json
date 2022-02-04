@@ -1,0 +1,23 @@
+{
+   "desc": {
+      "message": "Tasuta muusika allalaadija - laadige videoid / audiosid alla MP3, MP4, webm, ... ja muudes versioonides."
+   },
+   "disableyoutube": {
+      "message": "Chrome'i veebipood ei luba laienditel videoid YouTube'i alla laadida, proovige otsida musiti / esitaja nime järgi."
+   },
+   "name": {
+      "message": "Tasuta muusika allalaadija"
+   },
+   "notfound": {
+      "message": "Ühtegi videot ei leitud. Proovige otsida."
+   },
+   "placeholder": {
+      "message": "Otsige märksõnu või kleepige link siia ..."
+   },
+   "search": {
+      "message": "Otsing"
+   },
+   "title": {
+      "message": "Tasuta muusika allalaadija"
+   }
+}

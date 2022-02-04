@@ -1,0 +1,23 @@
+{
+   "desc": {
+      "message": "Free Music Downloader - Lataa videoita / audioita MP3-, MP4-, webm-, ... ja muualla."
+   },
+   "disableyoutube": {
+      "message": "Chrome Web Store ei salli laajennusten ladata videoita Youtubesta, kokeile hakua musit / artist name."
+   },
+   "name": {
+      "message": "Ilmainen musiikin lataus"
+   },
+   "notfound": {
+      "message": "Videoita ei löytynyt, kokeile etsiä sitä."
+   },
+   "placeholder": {
+      "message": "Etsi avainsanoja tai liitä linkki tähän ...."
+   },
+   "search": {
+      "message": "Hae"
+   },
+   "title": {
+      "message": "Ilmainen musiikin lataus"
+   }
+}

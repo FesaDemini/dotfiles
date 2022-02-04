@@ -1,0 +1,23 @@
+{
+   "desc": {
+      "message": "Descàrrega de música gratuïta: descarregueu vídeos / àudio a MP3, MP4, webm, ... i més."
+   },
+   "disableyoutube": {
+      "message": "Chrome Web Store no permet que les extensions descarreguen vídeos de Youtube. Proveu de cercar amb nom de musit / artista."
+   },
+   "name": {
+      "message": "Descàrrega de música gratuïta"
+   },
+   "notfound": {
+      "message": "No s’ha trobat cap vídeo, prova de cercar-lo."
+   },
+   "placeholder": {
+      "message": "Cerca paraules clau o enllaça l'enllaç aquí ..."
+   },
+   "search": {
+      "message": "Cerca"
+   },
+   "title": {
+      "message": "Descàrrega de música gratuïta"
+   }
+}

@@ -1,0 +1,23 @@
+{
+   "desc": {
+      "message": "Free Music Downloader - Baixe vídeos / áudios em MP3, MP4, webm, ... e mais."
+   },
+   "disableyoutube": {
+      "message": "The Chrome Web Store does not allow extensions to download videos from Youtube, try search with musit/artist name."
+   },
+   "name": {
+      "message": "Free Music Downloader"
+   },
+   "notfound": {
+      "message": "Nenhum vídeo encontrado, tente pesquisá-lo."
+   },
+   "placeholder": {
+      "message": "Pesquise palavras-chave ou cole o link aqui ...."
+   },
+   "search": {
+      "message": "Procurar"
+   },
+   "title": {
+      "message": "Free Music Downloader"
+   }
+}

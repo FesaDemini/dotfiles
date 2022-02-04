@@ -1,0 +1,23 @@
+{
+   "desc": {
+      "message": "Free Music Downloader - Last ned videoer / lydfiler i MP3, MP4, webm, ... og mer."
+   },
+   "disableyoutube": {
+      "message": "Chrome Nettmarked tillater ikke utvidelser å laste ned videoer fra Youtube, prøv å søke med musit / artist-navn."
+   },
+   "name": {
+      "message": "Free Music Downloader"
+   },
+   "notfound": {
+      "message": "Ingen videoer funnet. Prøv å søke etter den."
+   },
+   "placeholder": {
+      "message": "Søk nøkkelord eller lim inn link her ..."
+   },
+   "search": {
+      "message": "Søk"
+   },
+   "title": {
+      "message": "Free Music Downloader"
+   }
+}

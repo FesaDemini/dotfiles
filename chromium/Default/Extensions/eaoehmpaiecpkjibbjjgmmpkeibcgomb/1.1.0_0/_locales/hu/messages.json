@@ -1,0 +1,23 @@
+{
+   "desc": {
+      "message": "Ingyenes zeneletöltő - Videók / audió fájlok letöltése MP3, MP4, webm, stb. Formában."
+   },
+   "disableyoutube": {
+      "message": "A Chrome Internetes áruház nem engedélyezi a kiterjesztéseknek, hogy videókat töltsenek le a Youtube-ból, próbálkozzon a kereséssel musit / előadó neve alapján."
+   },
+   "name": {
+      "message": "Ingyenes zene letöltő"
+   },
+   "notfound": {
+      "message": "Nem található videó, próbáljon meg keresni."
+   },
+   "placeholder": {
+      "message": "Keressen kulcsszavakat vagy illessze be a linket ide ...."
+   },
+   "search": {
+      "message": "Keresés"
+   },
+   "title": {
+      "message": "Ingyenes zene letöltő"
+   }
+}

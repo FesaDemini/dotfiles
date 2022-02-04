@@ -1,0 +1,23 @@
+{
+   "desc": {
+      "message": "Free Music Downloader - ดาวน์โหลดวิดีโอ / ไฟล์เสียงเป็น MP3, MP4, webm, ... และอีกมากมาย"
+   },
+   "disableyoutube": {
+      "message": "Chrome เว็บสโตร์ไม่อนุญาตให้ส่วนขยายดาวน์โหลดวิดีโอจาก Youtube ลองค้นหาด้วยชื่อเพลง / ศิลปิน"
+   },
+   "name": {
+      "message": "ดาวน์โหลดเพลงฟรี"
+   },
+   "notfound": {
+      "message": "ไม่พบวิดีโอลองค้นหา"
+   },
+   "placeholder": {
+      "message": "ค้นหาคำหลักหรือวางลิงค์ที่นี่ ...."
+   },
+   "search": {
+      "message": "ค้นหา"
+   },
+   "title": {
+      "message": "ดาวน์โหลดเพลงฟรี"
+   }
+}

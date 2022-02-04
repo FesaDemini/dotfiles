@@ -1,0 +1,23 @@
+{
+   "desc": {
+      "message": "무료 음악 다운로더-MP3, MP4, webm 등에서 비디오 / 오디오를 다운로드하십시오."
+   },
+   "disableyoutube": {
+      "message": "Chrome 웹 스토어에서는 확장 프로그램에서 YouTube에서 동영상을 다운로드 할 수 없으므로 musit / artist 이름으로 검색해보세요."
+   },
+   "name": {
+      "message": "무료 음악 다운로더"
+   },
+   "notfound": {
+      "message": "동영상을 찾을 수 없습니다. 검색해보십시오."
+   },
+   "placeholder": {
+      "message": "키워드를 검색하거나 여기에 링크를 붙여 넣으십시오 ...."
+   },
+   "search": {
+      "message": "검색"
+   },
+   "title": {
+      "message": "무료 음악 다운로더"
+   }
+}

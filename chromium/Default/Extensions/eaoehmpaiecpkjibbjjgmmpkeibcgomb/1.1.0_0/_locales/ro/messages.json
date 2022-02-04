@@ -1,0 +1,23 @@
+{
+   "desc": {
+      "message": "Free Music Downloader - Download videos/audios in MP3, MP4, webm, ... and more."
+   },
+   "disableyoutube": {
+      "message": "Magazinul web Chrome nu permite extensii să descarce videoclipuri de pe Youtube, încercați să căutați cu numele muzit / artist."
+   },
+   "name": {
+      "message": "Descărcător gratuit de muzică"
+   },
+   "notfound": {
+      "message": "Nu s-au găsit videoclipuri, încercați să-l căutați."
+   },
+   "placeholder": {
+      "message": "Search keywords or paste link here...."
+   },
+   "search": {
+      "message": "Căutare"
+   },
+   "title": {
+      "message": "Descărcător gratuit de muzică"
+   }
+}

@@ -1,0 +1,23 @@
+{
+   "desc": {
+      "message": "Gratis muziekdownloader - Download video's / audio in MP3, MP4, webm, ... en meer."
+   },
+   "disableyoutube": {
+      "message": "De Chrome Web Store staat niet toe dat extensies video's van YouTube downloaden, probeer te zoeken met musit / artiestennaam."
+   },
+   "name": {
+      "message": "Gratis muziekdownloader"
+   },
+   "notfound": {
+      "message": "Geen video's gevonden, probeer het te doorzoeken."
+   },
+   "placeholder": {
+      "message": "Zoek op trefwoorden of plak de link hier ...."
+   },
+   "search": {
+      "message": "Zoeken"
+   },
+   "title": {
+      "message": "Gratis muziekdownloader"
+   }
+}

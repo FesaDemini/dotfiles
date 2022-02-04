@@ -1,0 +1,23 @@
+{
+   "desc": {
+      "message": "Descargador de música gratuito: descargue videos / audios en MP3, MP4, webm, ... y más."
+   },
+   "disableyoutube": {
+      "message": "Chrome Web Store no permite que las extensiones descarguen videos de YouTube, intente buscar con el nombre de artista / artista."
+   },
+   "name": {
+      "message": "Descargador de música gratis"
+   },
+   "notfound": {
+      "message": "No se encontraron videos, intente buscarlo."
+   },
+   "placeholder": {
+      "message": "Busque palabras clave o pegue el enlace aquí ..."
+   },
+   "search": {
+      "message": "Buscar"
+   },
+   "title": {
+      "message": "Descargador de música gratis"
+   }
+}

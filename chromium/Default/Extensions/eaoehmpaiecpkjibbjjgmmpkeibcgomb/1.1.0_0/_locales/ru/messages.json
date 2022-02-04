@@ -1,0 +1,23 @@
+{
+   "desc": {
+      "message": "Free Music Downloader - Загрузка видео / аудио в MP3, MP4, WebM, ... и многое другое."
+   },
+   "disableyoutube": {
+      "message": "Интернет-магазин Chrome не позволяет расширениям загружать видео с Youtube, попробуйте выполнить поиск по имени исполнителя или исполнителя."
+   },
+   "name": {
+      "message": "Free Music Downloader"
+   },
+   "notfound": {
+      "message": "Видео не найдено, попробуйте поискать его."
+   },
+   "placeholder": {
+      "message": "Искать ключевые слова или вставить ссылку здесь ...."
+   },
+   "search": {
+      "message": "Поиск"
+   },
+   "title": {
+      "message": "Free Music Downloader"
+   }
+}

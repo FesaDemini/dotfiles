@@ -1,0 +1,6 @@
+2022/02/04-16:47:48.696 74f1 Creating DB /home/fesa/.config/chromium/Default/IndexedDB/https_www.nordtheme.com_0.indexeddb.leveldb since it was missing.
+2022/02/04-16:47:48.860 74f1 Reusing MANIFEST /home/fesa/.config/chromium/Default/IndexedDB/https_www.nordtheme.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/02/04-16:48:39.740 42c Level-0 table #5: started
+2022/02/04-16:48:39.784 42c Level-0 table #5: 2210 bytes OK
+2022/02/04-16:48:39.825 42c Delete type=0 #3
+2022/02/04-16:48:39.825 42c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

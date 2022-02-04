@@ -1,0 +1,23 @@
+{
+   "desc": {
+      "message": "Free Music Downloader - Unduh video / audio dalam MP3, MP4, webm, ... dan banyak lagi."
+   },
+   "disableyoutube": {
+      "message": "Toko Web Chrome tidak mengizinkan ekstensi untuk mengunduh video dari Youtube, coba cari dengan nama musit / artis."
+   },
+   "name": {
+      "message": "Pengunduh Musik Gratis"
+   },
+   "notfound": {
+      "message": "Tidak ada video yang ditemukan, coba cari."
+   },
+   "placeholder": {
+      "message": "Cari kata kunci atau rekatkan tautan di sini ...."
+   },
+   "search": {
+      "message": "Cari"
+   },
+   "title": {
+      "message": "Pengunduh Musik Gratis"
+   }
+}

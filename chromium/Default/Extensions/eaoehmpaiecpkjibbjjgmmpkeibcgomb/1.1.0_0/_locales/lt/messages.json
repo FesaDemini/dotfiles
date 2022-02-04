@@ -1,0 +1,23 @@
+{
+   "desc": {
+      "message": "Free Music Downloader - Download videos/audios in MP3, MP4, webm, ... and more."
+   },
+   "disableyoutube": {
+      "message": "The Chrome Web Store does not allow extensions to download videos from Youtube, try search with musit/artist name."
+   },
+   "name": {
+      "message": "Nemokama muzika Downloader"
+   },
+   "notfound": {
+      "message": "Vaizdo įrašų nerasta. Pabandykite ieškoti."
+   },
+   "placeholder": {
+      "message": "Search keywords or paste link here...."
+   },
+   "search": {
+      "message": "Paieška"
+   },
+   "title": {
+      "message": "Nemokama muzika Downloader"
+   }
+}

@@ -1,0 +1,23 @@
+{
+   "desc": {
+      "message": "Ücretsiz Müzik İndirici - MP3 / MP4, webm, ... ve daha fazlasında video / ses indirin."
+   },
+   "disableyoutube": {
+      "message": "Chrome Web Mağazası, uzantıların Youtube'dan video indirmesine izin vermez, musit / artist name ile aramayı deneyin."
+   },
+   "name": {
+      "message": "Ücretsiz Müzik İndirici"
+   },
+   "notfound": {
+      "message": "Hiç video bulunamadı, aramayı deneyin."
+   },
+   "placeholder": {
+      "message": "Anahtar kelimeleri arayın veya bağlantıyı buraya yapıştırın ...."
+   },
+   "search": {
+      "message": "Arama"
+   },
+   "title": {
+      "message": "Ücretsiz Müzik İndirici"
+   }
+}

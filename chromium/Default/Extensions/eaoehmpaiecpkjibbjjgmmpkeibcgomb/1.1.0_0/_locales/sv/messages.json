@@ -1,0 +1,23 @@
+{
+   "desc": {
+      "message": "Gratis musiknedladdare - Ladda ner videor / ljud i MP3, MP4, webm, ... och mer."
+   },
+   "disableyoutube": {
+      "message": "Chrome Web Store tillåter inte tillägg att ladda ner videor från Youtube, försök att söka med musit / artistnamn."
+   },
+   "name": {
+      "message": "Gratis musik nedladdare"
+   },
+   "notfound": {
+      "message": "Inga videor hittades, försök söka i den."
+   },
+   "placeholder": {
+      "message": "Sökord eller klistra in länk här ...."
+   },
+   "search": {
+      "message": "Sök"
+   },
+   "title": {
+      "message": "Gratis musik nedladdare"
+   }
+}

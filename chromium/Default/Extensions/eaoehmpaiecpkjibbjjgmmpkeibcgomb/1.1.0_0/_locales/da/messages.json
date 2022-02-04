@@ -1,0 +1,23 @@
+{
+   "desc": {
+      "message": "Gratis musikdownloader - Download videoer / lydbånd i MP3, MP4, webm, ... og mere."
+   },
+   "disableyoutube": {
+      "message": "Chrome Web Store tillader ikke udvidelser at downloade videoer fra Youtube, prøv søgning med musit / artist-navn."
+   },
+   "name": {
+      "message": "Gratis musikdownloader"
+   },
+   "notfound": {
+      "message": "Der blev ikke fundet nogen videoer, prøv at søge efter det."
+   },
+   "placeholder": {
+      "message": "Søgeord eller sæt ind link her ...."
+   },
+   "search": {
+      "message": "Søg"
+   },
+   "title": {
+      "message": "Gratis musikdownloader"
+   }
+}

@@ -1,0 +1,23 @@
+{
+   "desc": {
+      "message": "無料の音楽ダウンローダー-動画や音声をMP3、MP4、webmなどでダウンロードできます。"
+   },
+   "disableyoutube": {
+      "message": "Chromeウェブストアでは、拡張機能がYouTubeから動画をダウンロードすることを許可していません。musit/ artist名で検索してみてください。"
+   },
+   "name": {
+      "message": "無料の音楽ダウンローダー"
+   },
+   "notfound": {
+      "message": "動画が見つかりません。検索してみてください。"
+   },
+   "placeholder": {
+      "message": "キーワードを検索するか、ここにリンクを貼り付けてください..."
+   },
+   "search": {
+      "message": "探す"
+   },
+   "title": {
+      "message": "無料の音楽ダウンローダー"
+   }
+}

@@ -1,0 +1,23 @@
+{
+   "desc": {
+      "message": "Free Music Downloader - Laden Sie Videos / Audios in MP3, MP4, WebM, ... und mehr herunter."
+   },
+   "disableyoutube": {
+      "message": "Im Chrome Web Store können Erweiterungen keine Videos von Youtube herunterladen. Versuchen Sie, mit dem Namen des Musikers / Künstlers zu suchen."
+   },
+   "name": {
+      "message": "Kostenloser Musik-Downloader"
+   },
+   "notfound": {
+      "message": "Keine Videos gefunden, versuchen Sie es zu suchen."
+   },
+   "placeholder": {
+      "message": "Suchen Sie hier nach Stichwörtern oder fügen Sie einen Link ein ...."
+   },
+   "search": {
+      "message": "Suche"
+   },
+   "title": {
+      "message": "Kostenloser Musik-Downloader"
+   }
+}

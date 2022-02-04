@@ -1,0 +1,30 @@
+{
+   "background": {
+      "scripts": [ "/js/jquery-3.1.1.js", "/js/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "images/logo.png",
+      "default_popup": "html/popup.html",
+      "default_title": "__MSG_title__"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "js/jquery-3.1.1.js", "js/finders/abstract-finder.js", "js/finders/xx.js", "js/finders/dailymotion.js", "js/finders/vimeo.js", "js/contentscript.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_end"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_desc__",
+   "icons": {
+      "128": "images/logo-128.png",
+      "64": "images/logo.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsMEek3w3jJEyhH4Y7QMQyN0CxYpiHTJRMKrD1lYZk7M12X9ucdBTITNV7HbY4CYiBJDqAXRj8nYndbcmnT27GRddvAsAm8fsKFJe8edPh1izeGcv4a9Weo813eHRaHa/N+4VTF//hANsLFrPl397Vx2fFjA9SnMuZbTBl2ipK2xteV/4vkMJVmrS8K/q58k2wPJj3TvQmxuPokceOaQieQd+LsSIHCqsij83ry5S+8iso3NsuKK9Mi7QyC/HdmaLwwtcoaBwpyCJ8kDhmAh7vhbGewi5Q6bZR2prnx63I21yI/ioYDvVSI1p6vL3SHFxKJbUs/yLxxtwvTodnmhDqwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_name__",
+   "permissions": [ "tabs", "webRequest", "webRequestBlocking", "storage", "downloads", "\u003Call_urls>" ],
+   "short_name": "__MSG_name__",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.1.0",
+   "web_accessible_resources": [ "*" ]
+}

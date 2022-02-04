@@ -1,0 +1,23 @@
+{
+   "desc": {
+      "message": "Zdarma Music Downloader - stahujte videa / audio ve formátu MP3, MP4, webm, ... a další."
+   },
+   "disableyoutube": {
+      "message": "Internetový obchod Chrome nepovoluje rozšíření pro stahování videí z Youtube, zkuste hledat s názvem musit / interpret."
+   },
+   "name": {
+      "message": "Zdarma Music Downloader"
+   },
+   "notfound": {
+      "message": "Nebyla nalezena žádná videa, zkuste to vyhledat."
+   },
+   "placeholder": {
+      "message": "Hledejte klíčová slova nebo vložte odkaz zde ...."
+   },
+   "search": {
+      "message": "Vyhledávání"
+   },
+   "title": {
+      "message": "Zdarma Music Downloader"
+   }
+}

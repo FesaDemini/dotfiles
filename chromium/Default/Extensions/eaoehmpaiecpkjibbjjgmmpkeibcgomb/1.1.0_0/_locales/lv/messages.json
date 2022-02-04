@@ -1,0 +1,23 @@
+{
+   "desc": {
+      "message": "Bezmaksas mūzikas lejupielādētājs - lejupielādējiet video / audio failus MP3, MP4, webm, ... un vairāk."
+   },
+   "disableyoutube": {
+      "message": "Chrome interneta veikalā paplašinājumi neļauj lejupielādēt videoklipus no Youtube. Mēģiniet meklēt ar musit / izpildītāja vārdu."
+   },
+   "name": {
+      "message": "Bezmaksas mūzikas lejupielādētājs"
+   },
+   "notfound": {
+      "message": "Nav atrasts neviens video. Mēģiniet meklēt."
+   },
+   "placeholder": {
+      "message": "Meklējiet atslēgvārdus vai ielīmējiet saiti šeit ...."
+   },
+   "search": {
+      "message": "Meklēt"
+   },
+   "title": {
+      "message": "Bezmaksas mūzikas lejupielādētājs"
+   }
+}

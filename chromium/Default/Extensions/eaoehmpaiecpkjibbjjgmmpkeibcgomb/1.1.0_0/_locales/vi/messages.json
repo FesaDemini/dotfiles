@@ -1,0 +1,23 @@
+{
+   "desc": {
+      "message": "Trình tải nhạc miễn phí - Tải xuống video / âm thanh trong MP3, MP4, webm, ... và hơn thế nữa."
+   },
+   "disableyoutube": {
+      "message": "Cửa hàng Chrome trực tuyến không cho phép tiện ích mở rộng tải xuống video từ Youtube, hãy thử tìm kiếm với tên nghệ sĩ / nghệ sĩ."
+   },
+   "name": {
+      "message": "Trình tải nhạc miễn phí"
+   },
+   "notfound": {
+      "message": "Không tìm thấy video, hãy thử tìm kiếm nó."
+   },
+   "placeholder": {
+      "message": "Tìm kiếm từ khóa hoặc dán liên kết tại đây ...."
+   },
+   "search": {
+      "message": "Tìm kiếm"
+   },
+   "title": {
+      "message": "Trình tải nhạc miễn phí"
+   }
+}

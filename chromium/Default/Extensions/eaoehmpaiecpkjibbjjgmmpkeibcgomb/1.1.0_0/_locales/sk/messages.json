@@ -1,0 +1,23 @@
+{
+   "desc": {
+      "message": "Bezplatne sťahovanie hudby - sťahujte videá / audia vo formáte MP3, MP4, webm, ... a ďalšie."
+   },
+   "disableyoutube": {
+      "message": "Internetový obchod Chrome nepovoľuje rozšírenia na sťahovanie videí z Youtube, skúste vyhľadať pomocou múzea / interpreta."
+   },
+   "name": {
+      "message": "Bezplatne sťahovanie hudby"
+   },
+   "notfound": {
+      "message": "Nenašli sa žiadne videá, skúste ich vyhľadať."
+   },
+   "placeholder": {
+      "message": "Vyhľadajte kľúčové slová alebo sem vložte odkaz ...."
+   },
+   "search": {
+      "message": "Vyhľadávanie"
+   },
+   "title": {
+      "message": "Bezplatne sťahovanie hudby"
+   }
+}

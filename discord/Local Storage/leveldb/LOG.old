@@ -1,0 +1,5 @@
+2022/02/04-16:20:36.706 2e5b Creating DB /home/fesa/.config/discord/Local Storage/leveldb since it was missing.
+2022/02/04-16:20:36.834 2e5b Reusing MANIFEST /home/fesa/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/02/04-16:21:57.256 2e59 Level-0 table #5: started
+2022/02/04-16:21:57.316 2e59 Level-0 table #5: 176272 bytes OK
+2022/02/04-16:21:57.346 2e59 Delete type=0 #3

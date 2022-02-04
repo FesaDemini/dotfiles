@@ -1,0 +1,23 @@
+{
+   "desc": {
+      "message": "Pemuat turun Muzik Percuma - Muat turun video / audio dalam MP3, MP4, webm, ... dan banyak lagi."
+   },
+   "disableyoutube": {
+      "message": "Kedai Web Chrome tidak membenarkan pelanjutan memuat turun video dari Youtube, cuba cari dengan nama musit / artis."
+   },
+   "name": {
+      "message": "Pemuat turun Muzik Percuma"
+   },
+   "notfound": {
+      "message": "Tidak ada video yang dijumpai, cuba cari."
+   },
+   "placeholder": {
+      "message": "Cari kata kunci atau tampal pautan di sini ...."
+   },
+   "search": {
+      "message": "Cari"
+   },
+   "title": {
+      "message": "Pemuat turun Muzik Percuma"
+   }
+}
